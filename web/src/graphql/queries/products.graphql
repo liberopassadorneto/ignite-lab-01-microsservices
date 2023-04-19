@@ -1,0 +1,6 @@
+query ListAllProducts {
+  products {
+    id
+    title
+  }
+}
